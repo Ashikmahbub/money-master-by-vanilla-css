@@ -1,0 +1,62 @@
+h1{text-align: center;
+    color: rgb(4, 133, 156);
+
+}
+.content{
+    display: flex;
+}
+.image-section{
+    width: 50%;
+}
+.calculation{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #F8F8F8;
+
+}
+.calculation button{
+    margin-left: 80px;
+}
+input{
+    padding: 2px;
+    background-color: rgb(214, 212, 212);
+    height: 30px;
+    border: none;
+
+}
+.calculation-section{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+   
+}
+.saving{
+    margin-top: 10px;
+    display: flex;
+    column-gap: 30px;
+    
+}
+.saving button{
+    margin-left: 0px;
+}
+button{
+    background: #59A5FF;
+     
+    height: 35px;
+    width: 120px;
+   
+    border: none;
+    color: white;
+    
+
+}
+.input-field{
+    display: flex;
+    column-gap: 10px;
+    align-items: baseline;
+    
+}
+ 
